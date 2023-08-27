@@ -1,4 +1,6 @@
-Hi, I’m Malolan - A master's degree holder in Environmental Engineering from McGill University. I’m interested in applying data analytics to address environmental concerns.
+# Hi there!
+
+I’m Malolan - A master's degree holder in Environmental Engineering from McGill University. I’m interested in applying data to address environmental concerns. 
 
 My list of projects can be found here: https://github.com/malolan-r/Environmental-Data-Projects 
 
